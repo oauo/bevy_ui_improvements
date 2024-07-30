@@ -1,5 +1,7 @@
 # Bevy UI Stuff
 
+I want to preface this by saying I don't have much experience with Bevy, and these things are just things I've thought about while working on my game jam entry - they're very much not demands. The stuff I have implemented may not be the most ideal either, I know that macros exist which would simplify the StyleBuilder but I haven't used macros yet.
+
 ## In this repo
 
 - Rem and Em units - I think Rem is essential, but Em would be nice to have but it deals with inheretance and the use case is limited.
