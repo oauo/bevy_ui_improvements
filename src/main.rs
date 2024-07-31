@@ -9,7 +9,7 @@ mod util;
 
 mod rem;
 mod val_calc;
-mod style_builder; // Implemented
+mod style_builder; // Opinionated, Implemented
 mod button_stuff; // Opinionated, implemented
 
 pub const ROOT_FONT_SIZE: f32 = 16.;
